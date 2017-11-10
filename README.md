@@ -1,1 +1,1 @@
-# crispy-barnaclefoo
+# crispy-barnacle
